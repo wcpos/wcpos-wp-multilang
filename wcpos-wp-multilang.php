@@ -4,6 +4,7 @@
  * Description: WP Multilang language filtering for WCPOS, including fast-sync route coverage and per-store language support in WCPOS Pro.
  * Version: 0.1.0
  * Author: kilbot
+ * Update URI:  https://github.com/wcpos/wcpos-wp-multilang
  * Requires Plugins: woocommerce, wp-multilang
  * Text Domain: wcpos-wp-multilang
  */
